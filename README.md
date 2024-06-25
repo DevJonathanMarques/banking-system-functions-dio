@@ -1,7 +1,6 @@
 
 # Projeto de Sistema Bancário em Python da Dio
 
-Esse é o meu primeiro projeto em python desenvolvido nas aulas da Dio.
 ## Sobre o Projeto
 O projeto foi desenvolvido utilizando o VS Code e a linguagem de programação Python. Criei um sistema onde é possível realizar o depósito, saque e visualização de extrato de uma conta bancária de um usuário.
 
